@@ -1,4 +1,4 @@
-<h1>ClickingGame!</h1>
+<h1>Clicking Game!</h1>
 
 <h2>Description</h2>
 Python program that operates on a Raspberry Pi to interact with a breadboard and create a physical clicking game between two players.
